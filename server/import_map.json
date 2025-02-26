@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "hono": "https://deno.land/x/hono/mod.ts",
+    "Client": "https://deno.land/x/mysql2/mod.ts",
+    "dotenv": "https://deno.land/std@0.224.0/dotenv/mod.ts"
+  }
+}
